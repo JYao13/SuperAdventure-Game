@@ -1,2 +1,2 @@
 # SuperAdventure
- Text based rpg
+A Text based rpg primarily written in C# with SQL
