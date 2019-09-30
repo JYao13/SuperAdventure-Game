@@ -1,0 +1,9 @@
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\bin\Debug\netcoreapp2.1\Engine1.deps.json
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\bin\Debug\netcoreapp2.1\Engine1.dll
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\bin\Debug\netcoreapp2.1\Engine1.pdb
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\obj\Debug\netcoreapp2.1\Engine1.csprojAssemblyReference.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\obj\Debug\netcoreapp2.1\Engine1.csproj.CoreCompileInputs.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\obj\Debug\netcoreapp2.1\Engine1.AssemblyInfoInputs.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\obj\Debug\netcoreapp2.1\Engine1.AssemblyInfo.cs
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\obj\Debug\netcoreapp2.1\Engine1.dll
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine1\obj\Debug\netcoreapp2.1\Engine1.pdb

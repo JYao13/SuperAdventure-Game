@@ -1,0 +1,6 @@
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine2\bin\Debug\Engine2.dll
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine2\bin\Debug\Engine2.pdb
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine2\obj\Debug\Engine2.csprojAssemblyReference.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine2\obj\Debug\Engine2.csproj.CoreCompileInputs.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine2\obj\Debug\Engine2.dll
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\Engine2\obj\Debug\Engine2.pdb

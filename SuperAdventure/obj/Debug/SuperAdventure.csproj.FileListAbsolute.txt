@@ -1,0 +1,13 @@
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\bin\Debug\Engine2.dll
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\bin\Debug\Engine2.pdb
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojAssemblyReference.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\jymas\source\repos\Projects Directory\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
